@@ -1,0 +1,31 @@
+_repo: The-Passing-of-Morocco_66521
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, Frederick F. (Frederick Ferdinand)
+    alias: Moore, Frederick Ferdinand
+    birthdate: 1877
+    deathdate: 1956
+    gutenberg_agent_id: '3782'
+    url: http://www.gutenberg.org/2009/agents/3782
+description: ''
+gutenberg_issued: '2021-10-12'
+identifiers:
+  gutenberg: '66521'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.303366&view=1up&seq=13
+pgterms:marc905: 20200819130505moore
+pgterms:marc906: '1908'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the librarians at South Dakota
+  State University for providing a high-res scan of the map, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: United States :Houghton Mifflin Company,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Passing of Morocco
+url: http://www.gutenberg.org/ebooks/66521
