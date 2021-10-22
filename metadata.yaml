@@ -1,5 +1,8 @@
 _repo: The-Passing-of-Morocco_66521
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66521-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, Frederick F. (Frederick Ferdinand)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3782'
     url: http://www.gutenberg.org/2009/agents/3782
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66521#The-Passing-of-Morocco
 gutenberg_issued: '2021-10-12'
 identifiers:
   gutenberg: '66521'
